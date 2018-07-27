@@ -1,3 +1,3 @@
 # hello-world
 POC on AWS
-By Samrat
+By Samrat Kiniara
